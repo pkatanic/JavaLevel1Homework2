@@ -110,12 +110,12 @@ public class Main {
     public static void main(String[] args)
     {
         //1
-      // change01();
+       change01();
       //2
-       // createArray();
+        createArray();
       //3
-       // int[] arrayNumbers = {1, 5, 3, 2, 11, 4, 5, 2, 4, 8, 9, 1};
-      //  modifyArray(arrayNumbers);
+        int[] arrayNumbers = {1, 5, 3, 2, 11, 4, 5, 2, 4, 8, 9, 1};
+        modifyArray(arrayNumbers);
       //4
         int[] minMaxArray = {1590, 6, 8, 13, 80, 74, 21, 22, 7, 0, 59, 1, 2524};
         System.out.println(minElArray(minMaxArray));
